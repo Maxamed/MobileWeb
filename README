@@ -1,0 +1,9 @@
+Ah so I think this is the perfect setup for the mobile web project:
+
+1. html5 mobile boiler plate.
+2. Sass mobile first CSS
+3. Zeptos 
+4. underscore/backbone
+5. Grunt to minify everything
+6. zombie for my unit testing
+7. sublime project

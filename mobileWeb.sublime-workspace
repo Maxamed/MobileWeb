@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"serializeJSON"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3907,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Format: Javascript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mohamedjama/node/zombie/UnitTesting/test_ican_login_invalid.js",
+		"/Users/mohamedjama/node/zombie/UnitTesting/test_ican_login.js",
+		"/Users/mohamedjama/node/express/views/index.jade",
+		"/Users/mohamedjama/node/express/app.js",
+		"/Users/mohamedjama/node/express/public/javascripts/validation.js",
+		"/Users/mohamedjama/node/zombie/UnitTesting/logs/i-can-login-5154824.log",
+		"/Users/mohamedjama/node/zombie/UnitTesting/logs/i-can-login-5154745.log",
+		"/Users/mohamedjama/node/zombie/UnitTesting/logs/i-can-login-5154653.log",
+		"/Users/mohamedjama/node/express/views/layout.jade",
+		"/Users/mohamedjama/node/express/views/validation.js",
+		"/Users/mohamedjama/node/zombie/UnitTesting/validation.js",
+		"/Users/mohamedjama/FrontendResources/readme",
+		"/Volumes/m.livenation.xx/@server/sites/livenation/@site.xslt",
+		"/Volumes/m.livenation.xx/@server/sites/livenation/@site.xml",
+		"/Users/mohamedjama/JSassesment/js-assessment/tests/app/modules.js",
+		"/Users/mohamedjama/JSassesment/js-assessment/tests/app/objects.js",
+		"/Users/mohamedjama/JSassesment/js-assessment/tests/app/arrays.js",
+		"/Users/mohamedjama/tapshell/tapshell/dev-env",
+		"/Users/mohamedjama/tapshell/tapshell/qa-env-works",
+		"/Users/mohamedjama/tapshell/tapshell/authtoken_qa.txt",
+		"/Users/mohamedjama/node/grunt/grunt.js",
+		"/Users/mohamedjama/node/zombie/UnitTesting/test_ican_load_page.js",
+		"/Volumes/m.livenation.xx/probe.aspx",
+		"/Volumes/m.livenation.xx/default.aspx",
+		"/Volumes/m.livenation.xx/artists/default.aspx",
+		"/Volumes/m.livenation.xx/api/device.aspx",
+		"/Volumes/m.livenation.xx/api/session.aspx",
+		"/Volumes/m.livenation.xx/api/sys.aspx",
+		"/Users/mohamedjama/node/zombie/zombify.sh",
+		"/Users/mohamedjama/node/zombie/i-can-load-page.js",
+		"/Users/mohamedjama/node/zombie/i-can-login.js",
+		"/Users/mohamedjama/node/zombie/app.js",
+		"/Users/mohamedjama/node/zombie/message.txt",
+		"/Users/mohamedjama/node/express/views/page.jade",
+		"/Users/mohamedjama/node/zombie/livenation_login.js",
+		"/Users/mohamedjama/node/express/routes/page.js",
+		"/Users/mohamedjama/node/express/views/test.jade",
+		"/Users/mohamedjama/node/express/routes/index.js",
+		"/Users/mohamedjama/.bash_profile",
+		"/Users/mohamedjama/repos/playground-validation/validation.html",
+		"/Users/mohamedjama/node/grunt/dist/jsfile.min.js",
+		"/Users/mohamedjama/node/grunt/dist/jsfile.concat.js",
+		"/Users/mohamedjama/node/grunt/dist/FILE_NAME.js",
+		"/Users/mohamedjama/node/lib/underscore.js",
+		"/Users/mohamedjama/grunt/jquery.js",
+		"/Users/mohamedjama/Desktop/grunt.js",
+		"/Library/WebServer/Documents/info.php",
+		"/Volumes/Inetpub/wwwroot/uk/com.ln-trust.stage.mjama/playground/validation.html",
+		"/Volumes/Inetpub/wwwroot/uk/com.ln-trust.stage.mjama/playground/zepot.js",
+		"/Users/mohamedjama/Desktop/validation.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"      }  ",
+			"ff",
+			"underscore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"untit",
+				"/Volumes/m.livenation.xx/@server/sites/livenation/@site.xslt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

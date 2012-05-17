@@ -1,0 +1,18 @@
+/*------------------------------------------------------------------------------------
+	AUTHOR: James Greenwood, @jghull 
+------------------------------------------------------------------------------------*/
+
+	@import "base";
+	
+	/********************************************************************************/
+	/* Subjective decision to assume that pre-media queried desktop IE (8/7/6)		*/
+	/* are using a mid-sized device. 960px "version" served to IE					*/
+	/* Hat tip: http://nicolasgallagher.com/mobile-first-css-sass-and-ie/			*/
+	/********************************************************************************/	
+	
+	@import "320-up";
+	@import "480-up";
+	@import "780-up";
+	@import "960-up"; 
+	
+
